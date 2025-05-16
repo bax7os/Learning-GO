@@ -7,4 +7,5 @@ import "fmt"
 // This happens because the golang is not a language oriented to OOP
 func Escrever() {
 	fmt.Println("Escrevendo do pacote auxiliar")
+	escrever2()
 }
